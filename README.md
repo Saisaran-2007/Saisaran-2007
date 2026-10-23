@@ -1,55 +1,93 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:101827,45:312E81,100:7C3AED&text=SAI%20SARAN&fontSize=56&fontColor=FFFFFF&fontAlignY=40&desc=ENGINEERING%20IDEAS%20INTO%20EXPERIENCES&descSize=14&descAlignY=62&animation=fadeIn" width="100%" alt="Sai Saran — Engineering ideas into experiences"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:0B1020,45:172554,100:4F46E5&text=S%20A%20I%20%20S%20A%20R%20A%20N&fontSize=42&fontColor=F8FAFC&fontAlignY=43&desc=COMPUTER%20SCIENCE%20%E2%80%A2%20SOFTWARE%20%E2%80%A2%20DESIGN&descSize=13&descAlignY=68&animation=fadeIn" alt="Sai Saran — Computer Science, Software, Design"/>
 
 <br/>
 
-# Hello, I'm Sai Saran.
+<a href="https://github.com/Saisaran-2007">
+  <img src="https://img.shields.io/badge/OPEN%20TO-LEARNING%20%26%20COLLABORATION-4F46E5?style=flat-square&labelColor=111827" alt="Open to learning and collaboration"/>
+</a>
 
-### `CSE STUDENT` &nbsp;·&nbsp; `DEVELOPER` &nbsp;·&nbsp; `DESIGN THINKER`
+<br/><br/>
 
-**I like the space where engineering meets imagination.**
+### Software-minded. Design-curious. Always becoming better.
 
-I’m a Computer Science Engineering student at **SRM IST, Ramapuram**, exploring software development, AI, systems, and thoughtful digital experiences.
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Saisaran--2007-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saisaran-2007)
-[![Focus](https://img.shields.io/badge/FOCUS-BUILD%20%2F%20LEARN%20%2F%20REFINE-6D28D9?style=for-the-badge)](#how-i-think)
-[![Location](https://img.shields.io/badge/CHENNAI-INDIA-334155?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Chennai)
+*I enjoy understanding how things work — and finding ways to make them work better.*
 
 </div>
 
 ---
 
-<div align="center">
+<table>
+<tr>
+<td width="58%" valign="top">
 
-### THE WAY I SEE TECHNOLOGY
+## A little about me
+
+Hey, I’m **Sai Saran** — a Computer Science Engineering student at **SRM IST, Ramapuram**.
+
+My interests sit at the intersection of software engineering, full-stack development, AI/ML, and user-centred design. I like connecting the dots between a problem, the experience people need, and the technology that can bring it to life.
+
+I’m still learning, experimenting, and building my foundations — one concept and one iteration at a time.
+
+</td>
+<td width="42%" valign="top">
+
+## My compass
+
+**01 — Understand**  
+Start with the problem, not the tool.
+
+**02 — Create**  
+Turn ideas into clear, useful experiences.
+
+**03 — Improve**  
+Test, reflect, and make the next version better.
+
+</td>
+</tr>
+</table>
+
+## What I bring to the table
+
+<div align="center">
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
-### 01 · THINK
+<img src="https://img.icons8.com/fluency/96/code.png" width="42" alt="Code icon"/>
 
-Understand the problem.  
-Ask better questions.
+**Engineering**
 
-</td>
-<td align="center" width="33%">
-
-### 02 · BUILD
-
-Turn ideas into  
-working experiences.
+<sub>Programming · OOP · Problem solving</sub>
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
-### 03 · REFINE
+<img src="https://img.icons8.com/fluency/96/web-design.png" width="42" alt="Web design icon"/>
 
-Test, learn, improve.  
-Repeat with purpose.
+**Web**
+
+<sub>Frontend · APIs · Backend fundamentals</sub>
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="42" alt="AI icon"/>
+
+**Exploration**
+
+<sub>AI/ML · Systems · Cybersecurity</sub>
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/96/design.png" width="42" alt="Design icon"/>
+
+**Experience**
+
+<sub>UI/UX · Design thinking · Visual communication</sub>
 
 </td>
 </tr>
@@ -57,144 +95,193 @@ Repeat with purpose.
 
 </div>
 
-## ✳ About Me
+## The toolkit
 
-I’m interested in more than writing code — I want to understand how the pieces fit together. From the interface a person interacts with to the APIs and data behind it, I enjoy exploring how technology can become useful, intuitive, and reliable.
+I see a tech stack as a toolbox, not a checklist. These are the languages and tools I’ve used or explored while developing my skills.
 
-- 🎓 **Education:** B.Tech Computer Science and Engineering, SRM IST — Ramapuram
-- 💻 **Core interests:** Software Engineering · Full-Stack Development · Problem Solving
-- 🧠 **Exploring:** AI/ML · Backend Systems · APIs · System Design Fundamentals
-- 🎨 **Creative side:** UI/UX · Design Thinking · Visual Communication
-- 🤝 **Community:** Design Co-Lead, Tamil Computing Club
-- 🌱 **Current mindset:** Learn the fundamentals, build consistently, and keep raising the bar.
-
-## ⌘ My Technical Landscape
-
-<div align="center">
-
-### LANGUAGES
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js&theme=dark" alt="C, C++, Java, Python and JavaScript"/>
-
-### WEB & APPLICATION DEVELOPMENT
-
-<img src="https://skillicons.dev/icons?i=html,css,react,vite,nodejs,fastapi&theme=dark" alt="HTML, CSS, React, Vite, Node.js and FastAPI"/>
-
-### DATA, TOOLS & DESIGN
-
-<img src="https://skillicons.dev/icons?i=postgres,git,github,vscode,figma,vercel&theme=dark" alt="PostgreSQL, Git, GitHub, VS Code, Figma and Vercel"/>
-
-</div>
-
-| Domain | Skills & technologies |
-|---|---|
-| **Programming** | C, C++, Java, Python, JavaScript |
-| **Frontend** | HTML, CSS, React, Vite, responsive interfaces |
-| **Backend** | Python, FastAPI, Node.js/Express fundamentals, REST APIs |
-| **Data** | PostgreSQL, SQL fundamentals, relational data concepts |
-| **AI / ML** | AI fundamentals, PyTorch exposure, model experimentation |
-| **Design** | UI/UX, design thinking, visual hierarchy, interface design |
-| **Workflow** | Git, GitHub, VS Code, deployment fundamentals, environment configuration |
-
-<sub>I'm continually developing these skills through coursework, experimentation, and hands-on practice.</sub>
-
----
-
-## ◉ What I'm Exploring
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ⟡ Software Engineering
-Writing understandable code, debugging methodically, learning data structures, and making sound technical decisions.
-
-### ⟡ Full-Stack Development
-Connecting frontend experiences to APIs, backend logic, and databases.
-
-### ⟡ Artificial Intelligence
-Understanding core concepts and finding practical, responsible ways to apply AI/ML.
-
-</td>
-<td width="50%" valign="top">
-
-### ⟡ UI/UX & Product Thinking
-Making digital products clearer, more consistent, and easier to use.
-
-### ⟡ Cybersecurity
-Building awareness of secure coding, application security, and common vulnerabilities.
-
-### ⟡ Systems & Architecture
-Learning how APIs, databases, operating systems, and services work together.
-
-</td>
-</tr>
-</table>
-
-## ◈ Beyond the Code
-
-**Tamil Computing Club — Design Co-Lead**  
-Contributing to design-oriented work and student tech-community activities, with an interest in communicating technical ideas clearly.
-
-**Intellects Club — Creative & Content Team**  
-Previously contributed to creative and content work, strengthening collaboration, visual communication, and execution.
-
-## ✧ Certifications & Learning
+### 01 / Languages
 
 <p>
-  <img src="https://img.shields.io/badge/IBM_SkillsBuild-AI_Foundation-1261FE?style=flat-square&logo=ibm&logoColor=white" alt="IBM SkillsBuild AI Foundation"/>
-  <img src="https://img.shields.io/badge/Deloitte-Cyber_Job_Simulation-86BC25?style=flat-square&logo=deloitte&logoColor=white" alt="Deloitte Australia Cyber Job Simulation"/>
-  <img src="https://img.shields.io/badge/Deloitte-Data_Analytics-86BC25?style=flat-square&logo=deloitte&logoColor=white" alt="Deloitte Data Analytics Certificate"/>
+  <img src="https://img.shields.io/badge/C-1E40AF?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-2563EB?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Java-92400E?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-1D4ED8?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-CA8A04?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
 </p>
 
-- **IBM SkillsBuild:** AI Foundation
-- **Deloitte Australia:** Cyber Job Simulation
-- **Deloitte:** Data Analytics Certificate
+### 02 / Web development
 
-## ⟳ How I Think
+<p>
+  <img src="https://img.shields.io/badge/HTML5-BE3A20?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1D4ED8?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/React-0F766E?style=flat-square&logo=react&logoColor=white" alt="React"/>
+  <img src="https://img.shields.io/badge/Vite-6D28D9?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
+  <img src="https://img.shields.io/badge/FastAPI-047857?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Node.js-166534?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+</p>
 
-<div align="center">
+### 03 / Data, workflow & design
 
-`CURIOSITY` &nbsp; → &nbsp; `CLARITY` &nbsp; → &nbsp; `CREATION` &nbsp; → &nbsp; `ITERATION`
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-1D4ED8?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Git-BE123C?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS%20Code-0369A1?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Figma-7C3AED?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Vercel-111827?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Render-0F766E?style=flat-square&logo=render&logoColor=white" alt="Render"/>
+</p>
 
-<br/>
+<details>
+<summary><strong>Explore my skill areas</strong></summary>
 
-| PRINCIPLE | IN PRACTICE |
+| Area | Current focus |
 |---|---|
-| **Stay curious** | Understand the why, not just the how. |
-| **Start with clarity** | Break large problems into smaller pieces. |
-| **Make it real** | Learn by building and testing. |
-| **Improve deliberately** | Use feedback and mistakes as useful signals. |
-| **Design for people** | Keep usability and purpose in view. |
+| Computer science | OOP, data structures, algorithms, debugging |
+| Frontend | Component-based UI, responsive layouts, client-side routing |
+| Backend | API integration, Python services, request/response flows |
+| Databases | SQL and relational database fundamentals |
+| AI / ML | AI foundations, PyTorch exposure, model experimentation |
+| Design | UI/UX, visual hierarchy, design thinking |
+| Delivery | Git workflows, configuration, deployment fundamentals |
 
-</div>
+</details>
 
-## ▧ GitHub Snapshot
+## Interests that keep me curious
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Software & systems
+Understanding how applications are structured, how data moves, and how to make code easier to maintain.
+
+### AI & machine learning
+Learning the fundamentals and exploring where intelligent features can genuinely help people.
+
+### Full-stack development
+Bringing interfaces, APIs, backend logic, and databases together into one coherent experience.
+
+</td>
+<td width="50%" valign="top">
+
+### UI/UX & product thinking
+Designing with clarity, consistency, accessibility, and the user’s needs in mind.
+
+### Cybersecurity
+Developing an understanding of secure coding and common application risks.
+
+### Creative technology
+Combining visual communication and engineering to explain ideas and make digital experiences feel considered.
+
+</td>
+</tr>
+</table>
+
+## Learning milestones
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Saisaran-2007&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB" alt="GitHub statistics"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saisaran-2007&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB" alt="Top programming languages"/>
+<table>
+<tr>
+<td align="center" width="33%">
+
+**EDUCATION**
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Saisaran-2007&hide_border=true&background=0D1117&ring=A78BFA&fire=F59E0B&currStreakLabel=A78BFA&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="GitHub contribution streak"/>
+B.Tech  
+Computer Science & Engineering
+
+<br/>
+
+<sub>SRM IST · Ramapuram</sub>
+
+</td>
+<td align="center" width="33%">
+
+**LEADERSHIP**
+
+<br/>
+
+Design Co-Lead
+
+<br/>
+
+<sub>Tamil Computing Club</sub>
+
+</td>
+<td align="center" width="33%">
+
+**COMMUNITY**
+
+<br/>
+
+Creative & Content Team
+
+<br/>
+
+<sub>Intellects Club · Previous</sub>
+
+</td>
+</tr>
+</table>
 
 </div>
 
-## Let's Connect
+### Certifications & professional learning
+
+- **IBM SkillsBuild** — AI Foundation
+- **Deloitte Australia** — Cyber Job Simulation
+- **Deloitte** — Data Analytics Certificate
+
+## My learning loop
 
 <div align="center">
 
-I'm always interested in learning from other developers, exchanging ideas, and contributing to meaningful work.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2200&pause=700&color=6366F1&center=true&vCenter=true&width=520&lines=Curiosity+%E2%86%92+Understanding;Understanding+%E2%86%92+Building;Building+%E2%86%92+Testing;Testing+%E2%86%92+Improvement;Repeat.+Stay+curious." alt="Curiosity to improvement animation"/>
 
-[![GitHub](https://img.shields.io/badge/Explore%20my%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saisaran-2007)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+</div>
+
+I try to learn by doing: break down the problem, build a small version, test what I understand, and use mistakes as feedback. I value clear communication, thoughtful design, and steady progress over pretending to know everything.
+
+## GitHub at a glance
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Saisaran-2007&show_icons=true&hide_border=true&rank_icon=github&bg_color=F8FAFC&title_color=3730A3&icon_color=4F46E5&text_color=334155" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saisaran-2007&layout=compact&hide_border=true&langs_count=7&bg_color=F8FAFC&title_color=3730A3&text_color=334155" alt="Most used languages"/>
 
 <br/>
 
-### _Build with curiosity. Design with intent. Grow through iteration._
+<img src="https://streak-stats.demolab.com?user=Saisaran-2007&hide_border=true&background=F8FAFC&ring=4F46E5&fire=EA580C&currStreakLabel=3730A3&sideLabels=334155&currStreakNum=1E293B&sideNums=1E293B&dates=64748B" alt="GitHub contribution streak"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=115&section=footer&color=0:7C3AED,55:312E81,100:101827" width="100%" alt="Purple gradient footer"/>
+</div>
+
+## Outside the editor
+
+- I enjoy the balance between **logical problem-solving and creative thinking**.
+- I’m interested in the user experience just as much as the technology behind it.
+- I value teamwork, constructive feedback, and communities that help people grow.
+- I’m building my skills one deliberate step at a time.
+
+---
+
+<div align="center">
+
+## Let's connect
+
+I'm always happy to learn from other developers, exchange ideas, and meet people who enjoy making things.
+
+<br/>
+
+<a href="https://github.com/Saisaran-2007"><img src="https://img.shields.io/badge/GitHub-See%20my%20profile-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+<br/><br/>
+
+**Make it useful. Make it thoughtful. Make it better.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:4F46E5,50:172554,100:0B1020" width="100%" alt="Indigo footer wave"/>
 
 </div>
